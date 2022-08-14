@@ -1,0 +1,51 @@
+// Stworz plik slownik z kilkunastoma wyrazami. Wsrod tych wyrazow wsadz kilka
+// kurde, kurcze i kurka.
+// Program ma za zadanie kazdy wyraz brzydki zastapic **** i zapisac
+// całosc do nowego pliku ktory sie nazywa
+// slownikPoprawiony
+
+// W pliku tekstowym sa wyrazy. Wypisz te ktore sa palindromami np kajak, ala
+
+// Napisz metode ktora przyjmuje jako parametr liste tablic Stringow i oblicza
+// sume dlugosci wszystkich Stringów
+
+//Napisz metode ktora przyjmuje jako parametr liste Stringow oraz liste intow (tej samej dlugosci obie listy)
+//Metoda ma zwrocic liste Stringow z pirwszej listy ktorych dlugosc odpowiada liczbom na 2 liscie
+// Ania Krzys Tomek Kasia Jan
+// 4 2 5 8 3
+//Ania Tomek Jan
+
+ /*
+* Stwórz klasę Pracownik (imie,nazwisko, adres, pensja i Klient (imie,nazwisko, ulubiony produkt). Klient kupuje produkty (nazwa, cena).
+Pracownik uzywa samochod (model, marka)
+
+1) Znajdz klienta który wydal najwiecej
+
+2) Wyswietl dla kazdego klienta jego ulubiony produkt (of cuz ulubiony produkt to ma byc atrybut wyliczalny na podstawie zakupow)
+
+3) Wyswietl 3 top pracownikow z najwieksza pensja
+
+4) Pracownicy auta moga uzywac wielkorotnie, chcemy przechowywac informacje (i moc ja wyswietlic) ile jaki pracownik uzywal jakiego auta
+*/
+
+*
+* Ok to masz graczy ktorzy graja w turniejach. Turniej ma nazwe i miesiac. Gracz ma imie i nazwisko. Gracz zdobywa punkty za udzial w turnieju, za 1 miejsce 100, za 2 80 ... za 5 20 za 6 i dalej nic. 
+
+0) UZYWAJ WYJATKOW GDZIE SIE DA:) 
+
+1) chcemy przechowywac dla kazdego gracza jakie pozycje zajmowal w jakim turnieju
+
+2) tak samo punkty jakie zdobyl z dnaego turnieju
+
+3) znajdz gracsa ktory byl najlepeszt w turniejach o danej nazwie, jesli nie ma to rzuc wyjatkiem  
+
+4) znajdz gracza ktory zodbyl najwiecej 1 miejsc ze wszystkich turniejow 
+
+5) znajdz gracza ktory ma najwyzsyz ranking z turrniejow ale nigdycnie mial 1 miejsca
+*/
+
+
+
+
+-- 
+Pozdrawiam, GP
